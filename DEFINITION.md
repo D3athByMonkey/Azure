@@ -1,18 +1,26 @@
-# Azure
-Code relating to various tasks and projects revolving around the MIcrosoft Azure stack
 
-General design:
-  Auth:
+# General design
+
+  **Auth**
+  
     Understand and use various forms of authentication methods.
-    
-  Create
+  
+  
+  **Create**
+  
     Create various resource types using the API and SDK
-    
-  Read
+  
+  
+  **Read**
+  
     Read information about the resources using SDK and API (IE: Graph)
-    
-  Update
+  
+  
+  **Update**
+  
     Modify resources
-    
-  Delete
+  
+  
+  **Delete**
+  
     Delete resources
